@@ -1,0 +1,32 @@
+[
+    {
+        "id": 101,
+        "icon": [
+            "../images/ICON/Group 204.png",
+            "../images/ICON/bus.png"
+        ],
+        "image": "../images/img/blog1.png",
+        "title": "Быстрая доставка",
+        "description": "Оперативная доставка курьером по Вашему городу и по городам Краснодарского края."
+    },
+    {
+        "id": 102,
+        "icon": [
+            "../images/ICON/Group 1133.png",
+            "../images/ICON/notification.png"
+        ],
+        "image": "../images/img/blog2.png",
+        "title": "Продукты из российского сырья",
+        "description": "Мы покупаем фермерские продукты и готовим по высоким стандартам"
+    },
+    {
+        "id": 103,
+        "icon": [
+            "../images/ICON/Group 245.png",
+            "../images/ICON/car.png"
+        ],
+        "image": "../images/img/blog3.png",
+        "title": "Доставка до дома",
+        "description": "Просто укажите адрес доставки в личном кабинете"
+    }
+]

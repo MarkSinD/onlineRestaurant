@@ -1,0 +1,22 @@
+.data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px
+}
+
+.data-short {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.element {
+    width: 400px
+}
+
+.element-short {
+    width: 200px
+}
